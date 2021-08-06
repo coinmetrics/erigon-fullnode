@@ -1,4 +1,4 @@
-# Binance Smart Chain docker image
+# Erigon docker image
 
 This is Erigon implementation of Ethereum docker image.
 
