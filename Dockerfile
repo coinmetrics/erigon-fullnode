@@ -22,5 +22,3 @@ USER runner
 WORKDIR /home/runner
 
 USER runner
-
-EXPOSE 8545 8546 30303 30303/udp 30304 30304/udp 8080 9090 6060
